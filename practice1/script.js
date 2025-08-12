@@ -1,0 +1,10 @@
+let num1 = 10;
+let num2 = 30;
+let sum = num1 + num2;
+let difference = num2 - num1;
+let product = num1 * num2;
+let quotient = num2 / num1;
+console.log("Sum:", sum);
+console.log("Difference:", difference);
+console.log("Product:", product);
+console.log("Quotient:", quotient);
