@@ -1,0 +1,40 @@
+/* Glassmorphism style */
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #333, #333);
+  font-family: Arial, sans-serif;
+}
+
+.downloader {
+  width: 300px;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  color: #fff;
+}
+
+.progress {
+  width: 100%;
+  height: 20px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 15px 0;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  width: 10%;
+  background: linear-gradient(90deg, #46b2cd, #46b2cd);
+  border-radius: 10px 0 0 10px;
+}
+
+.percent {
+  font-size: 18px;
+  font-weight: bold;
+}
