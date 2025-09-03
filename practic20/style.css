@@ -1,0 +1,11 @@
+.banner {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+#clicked {
+  justify-content: center;
+  background-color: blue;
+  margin: 5px;
+}
