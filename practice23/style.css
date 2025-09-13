@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blueviolet;
+  margin-top: 200px;
+}
+
+button {
+  margin-left: 600px;
+  margin-top: 10px;
+}
